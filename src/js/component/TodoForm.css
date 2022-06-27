@@ -1,0 +1,10 @@
+.btnInput{
+  background:white; 
+  border:none;
+   color:#6930c3;
+}
+
+.btnInput:hover{
+  background:#6930c3;
+  color:white;
+}

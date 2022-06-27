@@ -1,0 +1,29 @@
+.btn .icon{
+  align-self: center;
+  min-height: 1.5em;
+  min-width: 1.5em;
+}
+
+.btn{
+  cursor:pointer;
+  border:none;
+  background:white;
+  color: #6930c3;
+
+}
+
+.btn:hover{
+  background:#6930c3;
+  color:white;
+}
+
+
+li{
+  margin-left: 20px;
+  align-self: center;
+}
+
+li input{
+  border:none;
+  font-size:1.5rem;
+}
