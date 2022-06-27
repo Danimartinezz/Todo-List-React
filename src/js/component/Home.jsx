@@ -1,6 +1,6 @@
 import React from "react";
-import TodoForm from "/workspace/react-hello/src/js/component/TodoForm.jsx";
-import TodoList from "/workspace/react-hello/src/js/component/TodoList.jsx";
+import TodoForm from "./TodoForm.jsx";
+import TodoList from "./TodoList.jsx";
 
 
 //create your first component

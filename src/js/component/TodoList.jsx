@@ -1,5 +1,5 @@
 import React from "react";
-import Todo from "/workspace/react-hello/src/js/component/Todo.jsx";
+import Todo from "./Todo.jsx";
 
 export default class TodoList extends React.Component{
     render() {

@@ -1,5 +1,5 @@
 import React from "react";
-import "/workspace/react-hello/src/js/component/TodoForm.css";
+import "./TodoForm.css";
 
 export default class TodoForm extends React.Component{
     constructor(){
